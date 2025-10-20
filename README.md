@@ -1,6 +1,10 @@
-# Batería de Ejemplos Básicos de GTK
+# Ejemplos de GTK - Tutorial del Tema 3 de SEA
 
-Esta colección contiene ejemplos progresivos para aprender a crear interfaces gráficas sencillas con GTK en C. Cada ejemplo introduce nuevos conceptos mientras refuerza los anteriores, proporcionando una base sólida para el desarrollo de aplicaciones con GTK.
+Este repositorio contiene ejemplos progresivos de GTK (GIMP Toolkit) en C como parte de la asignatura **Sistemas Embebidos Avanzados (SEA)** del **Máster Universitario en Ingeniería de Sistemas Electrónicos (MUISE)** de la **Universitat Politècnica de València (UPV)**, año 2025.
+
+Cubre desde conceptos básicos hasta aplicaciones completas, con ejemplos organizados por niveles, código comentado y documentación detallada para el aprendizaje de interfaces gráficas.
+
+---
 
 ## Estructura y Progresión de los Ejemplos
 
