@@ -330,3 +330,50 @@ sudo pacman -S gtk3
 2. **Combina:** Usa elementos de diferentes ejemplos en tus propios proyectos  
 3. **Explora:** Investiga widgets adicionales como `GtkTreeView`, `GtkNotebook`, etc.
 4. **Construye:** Crea tu propia aplicación combinando los conceptos aprendidos
+
+---
+
+## 📚 Recursos Adicionales
+
+- [GTK 3 Documentation](https://docs.gtk.org/gtk3/)
+- [GTK Tutorial](https://www.gtk.org/docs/getting-started/)
+- [GLib Reference Manual](https://docs.gtk.org/glib/)
+- [GTK Widget Gallery](https://docs.gtk.org/gtk3/visual_index.html)
+- [Glade Interface Designer](https://glade.gnome.org/)
+
+---
+
+## 👥 Contribuciones
+
+Este repositorio está diseñado con fines educativos. Siéntete libre de:
+
+- Reportar errores o mejoras
+- Sugerir nuevos ejemplos
+- Adaptar el contenido para tus necesidades
+
+---
+
+## 📝 Licencia
+
+Este material está licenciado bajo [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+**Esto significa que puedes:**
+
+- ✅ Compartir — copiar y redistribuir el material en cualquier medio o formato
+- ✅ Adaptar — remezclar, transformar y construir a partir del material
+
+**Bajo las siguientes condiciones:**
+
+- 👤 **Atribución** — Debes dar crédito apropiado
+- 🚫 **No Comercial** — No puedes usar el material para propósitos comerciales
+- 🔄 **CompartirIgual** — Si remezclas, transformas o creas a partir del material, debes distribuir tus contribuciones bajo la misma licencia
+
+---
+
+## ✨ Autor
+
+**Javier Monreal Trigo**  
+Universitat Politècnica de València (UPV)
+
+**Asignatura:** Sistemas Embebidos Avanzados (SEA)  
+**Versión:** 20 de octubre de 2025
