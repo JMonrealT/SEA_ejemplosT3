@@ -1,0 +1,48 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compilar ejemplo actual",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "`pkg-config --cflags gtk+-3.0`",
+                "${file}",
+                "-o",
+                "${fileBasenameNoExtension}",
+                "`pkg-config --libs gtk+-3.0`",
+                "-lm"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": ["$gcc"]
+        },
+        {
+            "label": "Compilar todos los ejemplos",
+            "type": "shell",
+            "command": "make",
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "Limpiar ejecutables",
+            "type": "shell",
+            "command": "make",
+            "args": ["clean"],
+            "group": "build"
+        }
+    ]
+}

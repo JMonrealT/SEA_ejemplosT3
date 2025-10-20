@@ -1,0 +1,31 @@
+# Ejecutables compilados
+ejemplo1
+ejemplo2
+ejemplo3
+ejemplo4
+ejemplo5
+ejemplo6
+ejemplo7
+ejemplo8
+ejemplo9
+ejemplo10
+
+# Archivos objeto
+*.o
+*.a
+
+# Archivos temporales
+*~
+.#*
+
+# Archivos de debug
+*.dSYM/
+core
+
+# Configuración de IDEs (mantener VSCode config para el proyecto)
+.idea/
+*.swp
+*.swo
+
+# Pero mantener la configuración de VSCode
+!.vscode/
