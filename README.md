@@ -358,18 +358,12 @@ Este repositorio está diseñado con fines educativos. Siéntete libre de:
 Este material está licenciado bajo [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 **Esto significa que puedes:**
-<<<<<<< HEAD
 
-=======
->>>>>>> aeb109e78c8f40779833309145be655e1e9286be
 - ✅ Compartir — copiar y redistribuir el material en cualquier medio o formato
 - ✅ Adaptar — remezclar, transformar y construir a partir del material
 
 **Bajo las siguientes condiciones:**
-<<<<<<< HEAD
 
-=======
->>>>>>> aeb109e78c8f40779833309145be655e1e9286be
 - 👤 **Atribución** — Debes dar crédito apropiado
 - 🚫 **No Comercial** — No puedes usar el material para propósitos comerciales
 - 🔄 **CompartirIgual** — Si remezclas, transformas o creas a partir del material, debes distribuir tus contribuciones bajo la misma licencia
